@@ -1,5 +1,5 @@
 //If you use the name.addCourse function, you can add courses, and calculate the total number of credits you get.
-//You can get a list of students in a class with course.classList() funtion, or courses of a student with student.courseList function
+//You can get a list of students in a class with course.classList() funtion, or course list of a student with student.courseList function
 
 
 
